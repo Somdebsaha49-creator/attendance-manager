@@ -6,19 +6,19 @@ A Python project to calculate student attendance percentage and visualize class 
 
 Features:-
 
-1.Store student attendance using dictionaries.
+1. Store student attendance using dictionaries.
 
-2.Calculate percentage attendance for each student.
+2. Calculate percentage attendance for each student.
 
-3.Compute average class attendance.
+3. Compute average class attendance.
 
-4.Generate bar graphs to visualize attendance percentages.
+4. Generate bar graphs to visualize attendance percentages.
 
 Technologies Used:-
 
-1.Python 🐍
+1. Python 🐍
 
-2.Matplotlib 📈
+2. Matplotlib 📈
 
 ## How to Run
 
