@@ -29,3 +29,7 @@ Technologies Used:-
 3. Make sure Python is installed and select the correct interpreter.  
 
 4. Run directly from VS Code (▶ Run button).
+
+## 📌 Author
+
+👤 Developed by [**Somdeb Saha**] – exploring the world of Python and building cool projects.
